@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="Catalog.Документы" id="6f3170cb-6a6d-4bf5-aaaa-2969a6cbd548" configVersion="7d3f50f37bae5a47951ca9023638ccba00000000">
+			<Metadata name="Catalog.Документы.TabularSection.ИдентификаторыЧанков" id="178a8998-ea87-41c6-b5e6-a6a8044cd2bf"/>
+			<Metadata name="Catalog.Документы.TabularSection.ИдентификаторыЧанков.Attribute.Идентификатор" id="453632e3-0ec3-473b-a36d-c65d904db711"/>
+			<Metadata name="Catalog.Документы.Attribute.АбсолютныйПуть" id="bc32c245-5829-4486-be47-60d1559fec43"/>
+		</Metadata>
+		<Metadata name="Catalog.Документы.Form.ФормаСписка" id="256d7226-d44e-4245-9898-b88fee69f4f6" configVersion="4ba55ba2958f0849bfc5b2c8621a802000000000"/>
+		<Metadata name="Catalog.Документы.Form.ФормаСписка.Form" id="256d7226-d44e-4245-9898-b88fee69f4f6.0" configVersion="c9ad5097ec771b4496ac3d231b5fad9600000000"/>
+		<Metadata name="Catalog.Документы.Form.ФормаЭлемента" id="3a5cbfa2-b361-460a-8cc5-f85b3f8f6deb" configVersion="93f4047b4ac4a44bb6ca803b18d6f55b00000000"/>
+		<Metadata name="Catalog.Документы.Form.ФормаЭлемента.Form" id="3a5cbfa2-b361-460a-8cc5-f85b3f8f6deb.0" configVersion="5cc4d1c4f300774a9be0460c36483a8600000000"/>
+		<Metadata name="Catalog.Документы.ObjectModule" id="6f3170cb-6a6d-4bf5-aaaa-2969a6cbd548.0" configVersion="b8419a860d5c184980afd58afd941cc100000000"/>
+		<Metadata name="CommonForm.КаталогДокументов" id="6d41bdda-df35-4f02-b0e7-641f5c45671d" configVersion="5840fe678ff62b4bb5e497e58e7058e100000000"/>
+		<Metadata name="CommonForm.КаталогДокументов.Form" id="6d41bdda-df35-4f02-b0e7-641f5c45671d.0" configVersion="61ad3089be9a3849bdd7956557c64c6400000000"/>
+		<Metadata name="CommonModule.ChromaDB" id="14279dd2-7b40-42de-a8b6-e938ab63a423" configVersion="620317606c50a94e94ea6a2d6e08572800000000"/>
+		<Metadata name="CommonModule.ChromaDB.Module" id="14279dd2-7b40-42de-a8b6-e938ab63a423.0" configVersion="05c817a52321574c88e46bb717c83a6d00000000"/>
+		<Metadata name="CommonModule.HTTPКлиент" id="4658c7f3-8122-457b-ad39-0d48513c1a09" configVersion="07efb2205c0d8148ad4dfbbc0ae5237d00000000"/>
+		<Metadata name="CommonModule.HTTPКлиент.Module" id="4658c7f3-8122-457b-ad39-0d48513c1a09.0" configVersion="ee6dbc2a9e47084cb3b806e5ac06cb4800000000"/>
+		<Metadata name="CommonModule.Настройки" id="7b8824f9-9dff-4e23-905d-337239f60fcb" configVersion="e6c3f343e16cd24ea60931c2b121fece00000000"/>
+		<Metadata name="CommonModule.Настройки.Module" id="7b8824f9-9dff-4e23-905d-337239f60fcb.0" configVersion="4200130d7d93e643885b908916918dae00000000"/>
+		<Metadata name="CommonModule.Ретривер" id="ddc57da8-b938-4129-ae49-cbac26b73262" configVersion="b7edd2f6a2d27e4eb74191b369f31bd000000000"/>
+		<Metadata name="CommonModule.Ретривер.Module" id="ddc57da8-b938-4129-ae49-cbac26b73262.0" configVersion="a634df0079b5f34b863d1010c73b624f00000000"/>
+		<Metadata name="CommonModule.Чатбот" id="58d571a3-c2bd-4f1e-88c7-afc012dcf822" configVersion="e1a75c4e8e3bd441908d40939f63b68400000000"/>
+		<Metadata name="CommonModule.Чатбот.Module" id="58d571a3-c2bd-4f1e-88c7-afc012dcf822.0" configVersion="5cde86621588454396853ea087a0dd6b00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="483b9fc1-807e-4c64-a92c-7a7a6454a23c" configVersion="c9a31d6571f1bd43ac11074568da60cd00000000"/>
+		<Metadata name="Configuration.Конфигурация.ClientApplicationInterface" id="8617bad9-76cb-4757-9801-2e5ec97d7fd2.b" configVersion="9618376b9da2e1419f70723138d7911900000000"/>
+		<Metadata name="Configuration.Конфигурация.HomePageWorkArea" id="8617bad9-76cb-4757-9801-2e5ec97d7fd2.8" configVersion="449be566b5b898408f48a1edb31484ef00000000"/>
+		<Metadata name="Configuration.Конфигурация.ManagedApplicationModule" id="8617bad9-76cb-4757-9801-2e5ec97d7fd2.6" configVersion="c292af2afec9514ca6e8ff0d66fc868000000000"/>
+		<Metadata name="Constant.ChromaCollectionId" id="bf92d7d8-5490-4630-8839-0fd6b6ce3d5d" configVersion="5519be3fada3894488f75d322843d23500000000"/>
+		<Metadata name="Constant.ChromaURL" id="5a7b46be-178a-41ca-bf91-323298be02e9" configVersion="b28ca0fccbc3c54d8374023f10ee2c7500000000"/>
+		<Metadata name="Constant.Embedding_Model" id="e1507043-41e5-4507-8576-3c9ffdd8d295" configVersion="13f5760003005842bf885235a1a0557a00000000"/>
+		<Metadata name="Constant.LLM_Model" id="a79fcc8f-d1a8-4ce8-9e20-681f390ffb57" configVersion="236f3803986cc344959fd32f5e91877900000000"/>
+		<Metadata name="Constant.LLM_URL" id="d53c93c5-0267-45ea-81fc-7805ef9d5a7d" configVersion="3017a94b010ea84880ed50ecb046216500000000"/>
+		<Metadata name="Constant.КаталогДокументов" id="bc2e2de2-48a3-43b0-b752-201d51a96ccb" configVersion="bcb6d048fe385f479c80a373d010cd5000000000"/>
+		<Metadata name="DataProcessor.Чатбот" id="ad20f2ca-da24-4c42-9959-f1ad02e56581" configVersion="165ad2ac879b3b4dbb58ce0745a9467d00000000"/>
+		<Metadata name="DataProcessor.Чатбот.Form.Форма" id="ce0bdb4a-1c4c-4a24-9022-abc789089342" configVersion="c84522a63450844a9606a1de578b2b9300000000"/>
+		<Metadata name="DataProcessor.Чатбот.Form.Форма.Form" id="ce0bdb4a-1c4c-4a24-9022-abc789089342.0" configVersion="a4a020458537e2448113c331bf0bab5300000000"/>
+		<Metadata name="InformationRegister.ИсторияСообщений" id="53ed88f6-2e66-4b36-9440-054d0e068a0e" configVersion="e37109e3d899de46b61e730202bb851400000000">
+			<Metadata name="InformationRegister.ИсторияСообщений.Dimension.СообщениеБота" id="3da941f6-0474-490d-b778-af52501494ac"/>
+			<Metadata name="InformationRegister.ИсторияСообщений.Resource.Сообщение" id="e7d05372-1b9f-404a-92d5-c5ef7b0a608e"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="60f8aa99-dc51-4dcc-a2dc-c64ebaf18052" configVersion="a4b0fd2c51db0148ba80c65cab39b63500000000"/>
+		<Metadata name="Subsystem.Документы" id="6bc5748a-450b-4aca-8bc0-cdfdc6cf7399" configVersion="e49ec55f4553f849987f068ef727aa0500000000"/>
+		<Metadata name="Subsystem.Настройки" id="76825f5d-fc4a-486c-8d0a-96157f5ac193" configVersion="334fe4c7712f5749bcbc36507452916d00000000"/>
+		<Metadata name="Subsystem.Настройки.CommandInterface" id="76825f5d-fc4a-486c-8d0a-96157f5ac193.1" configVersion="9adf48bc8c41c241a6160f0aafd52d1600000000"/>
+		<Metadata name="Subsystem.Чатбот" id="4b4b166d-f967-4e43-a791-6a196f799e60" configVersion="87bfd42c440d3849a105e898a474130c00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
