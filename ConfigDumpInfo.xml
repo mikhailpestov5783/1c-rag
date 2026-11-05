@@ -19,8 +19,8 @@
 		<Metadata name="CommonModule.HTTPКлиент.Module" id="4658c7f3-8122-457b-ad39-0d48513c1a09.0" configVersion="ee6dbc2a9e47084cb3b806e5ac06cb4800000000"/>
 		<Metadata name="CommonModule.Настройки" id="7b8824f9-9dff-4e23-905d-337239f60fcb" configVersion="e6c3f343e16cd24ea60931c2b121fece00000000"/>
 		<Metadata name="CommonModule.Настройки.Module" id="7b8824f9-9dff-4e23-905d-337239f60fcb.0" configVersion="4200130d7d93e643885b908916918dae00000000"/>
-		<Metadata name="CommonModule.Ретривер" id="ddc57da8-b938-4129-ae49-cbac26b73262" configVersion="b7edd2f6a2d27e4eb74191b369f31bd000000000"/>
-		<Metadata name="CommonModule.Ретривер.Module" id="ddc57da8-b938-4129-ae49-cbac26b73262.0" configVersion="a634df0079b5f34b863d1010c73b624f00000000"/>
+		<Metadata name="CommonModule.Ретривер" id="ddc57da8-b938-4129-ae49-cbac26b73262" configVersion="0b37f7a6b1f87b438ce7f25ba3b15baa00000000"/>
+		<Metadata name="CommonModule.Ретривер.Module" id="ddc57da8-b938-4129-ae49-cbac26b73262.0" configVersion="ea61d176896a1944bc88bd8386801fa000000000"/>
 		<Metadata name="CommonModule.Чатбот" id="58d571a3-c2bd-4f1e-88c7-afc012dcf822" configVersion="e1a75c4e8e3bd441908d40939f63b68400000000"/>
 		<Metadata name="CommonModule.Чатбот.Module" id="58d571a3-c2bd-4f1e-88c7-afc012dcf822.0" configVersion="5cde86621588454396853ea087a0dd6b00000000"/>
 		<Metadata name="Configuration.Конфигурация" id="483b9fc1-807e-4c64-a92c-7a7a6454a23c" configVersion="c9a31d6571f1bd43ac11074568da60cd00000000"/>
